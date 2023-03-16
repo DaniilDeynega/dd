@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans&family=Roboto:wght@900&display=swap'); 
+
+body{
+    background: #f3ebdd;
+}
+
+.info{
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+}
+
+.st{
+    color: aqua;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.cen{
+    font-family:'DM Sans', sans-serif;
+    word-spacing: 25px;
+}
+
+.end{
+    font-family:'DM Sans', sans-serif;
+    color: white;
+    font-size: 18px;
+    border-radius: 28px;
+    background-color: aqua;
+}
+
