@@ -238,3 +238,101 @@ color: rgba(34, 53, 111, 0.5);
 white-space: nowrap;
 text-align: center;
 }
+
+.jol{
+    background-color: #FFFFFF;
+    display: flex;
+justify-content: flex-start;
+flex-direction: row;
+}
+
+
+.box{
+    position: absolute;
+width: 360px;
+height: 360px;
+left: 0px;
+top: 1927px;
+
+}
+    
+
+   
+
+.pink{
+    position: absolute;
+    width: 232px;
+    height: 54px;
+    left: 78px;
+    top: 2022px;
+    
+    font-family: 'Larsseit';
+    font-size: 32px;
+    line-height: 34px;
+    letter-spacing: -0.006em;
+    
+    color: #FFFFFF;
+}
+
+.green{
+    background: #C4E769;
+    position: absolute;
+width: 230px;
+height: 54px;
+left: 438px;
+top: 2022px;
+
+font-family: 'Larsseit';
+font-size: 32px;
+line-height: 34px;
+letter-spacing: -0.006em;
+
+color: #FFFFFF;
+
+}
+
+.aqua{
+    position: absolute;
+width: 360px;
+height: 360px;
+left: 720px;
+top: 1927px;
+
+background: #62D0DF;
+position: absolute;
+width: 218px;
+height: 54px;
+left: 798px;
+top: 2022px;
+
+font-family: 'Larsseit';
+font-size: 32px;
+line-height: 34px;
+letter-spacing: -0.006em;
+
+color: #FFFFFF;
+
+}
+
+.blue{
+    position: absolute;
+width: 360px;
+height: 360px;
+left: 1078px;
+top: 1927px;
+
+background: #0052C1;
+position: absolute;
+width: 214px;
+height: 54px;
+left: 1156px;
+top: 2022px;
+
+font-family: 'Larsseit';
+font-size: 32px;
+line-height: 34px;
+letter-spacing: -0.006em;
+
+color: #FFFFFF;
+
+}
